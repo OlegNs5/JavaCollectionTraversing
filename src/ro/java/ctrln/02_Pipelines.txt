@@ -1,0 +1,10 @@
+1. Pe codul construit 01_ExpresiiLambda.txt construeste un pipeline care filtreaza jocurile video care au rating
+mai mare de 7.
+
+2. Afla care este cel mai mare, cel mai mic si media rating-urilor.
+
+3. Cate jocuri au rating-ul mai mare de 9 ?
+
+4. Foloseste classa DoubleSummaryStatistics pentru a afla care este cel mai mare si cel mai mic rating si media ratingului.
+
+5. Costruieste un pipeline care colecteaza numele jocurilor video intr-o noua colectie.

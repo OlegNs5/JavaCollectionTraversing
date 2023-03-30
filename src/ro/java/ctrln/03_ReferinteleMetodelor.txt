@@ -1,0 +1,11 @@
+1. Construieste o metoda care formateaza numele jocurilor in felul urmator:
+        Game1, Game2, Game3,..., GameN
+
+       Nota! Foloseste Collectors.joining()
+
+2. Scrie o noua interfara functionala care sa instantieze un joc nou.
+
+3. Foloseste interfata functionala anterioara pentru a popula un nou hashmap cu cinci perechi numar ordine joc video.
+Pe acest hashmap inlocuieste toate ratingurile jocurilor mai mic decit 7 cu 7.
+
+       Nota! Pentru implimentare foloseste prima metada replace, dupa care replaceAll prezenta pe HashMap!

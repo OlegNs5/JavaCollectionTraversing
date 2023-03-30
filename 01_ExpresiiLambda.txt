@@ -1,0 +1,9 @@
+1. Scrie o aplicatie ca ordoneaza jocuri video in ordinea rating-ului
+
+2. Un joc video are nume, rating, platforma(PC, consola, mobil)
+
+3. Pentru implementarea sortarii folosim comparator scris ca o expresie lambda sau ca o referinta pe metoda getter care
+intoarce valoarea field-ului de rating
+
+Nota! Sortarea poate fi implimentata si  cu ajutorul opeeratiei agregate sorted()
+
